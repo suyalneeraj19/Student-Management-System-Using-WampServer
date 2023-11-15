@@ -1,0 +1,3 @@
+WampServer
+Python 
+MySql
